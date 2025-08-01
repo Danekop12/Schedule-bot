@@ -1,7 +1,9 @@
 services:
   - type: web
-    name: telegram-bot
+    name: schedule-bot
     env: python
     plan: free
-    buildCommand: ""
-    startCommand: ./start.sh
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "./start.sh"
+    runtime: python
+    pythonVersion: 3.11
