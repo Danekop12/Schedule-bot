@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE $PORT
 
-CMD python main.py
+CMD ["python", "main.py"]
