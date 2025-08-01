@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="R6Rand.ui_element.ClickableGraphicElement.ui_element" />
+          <option value="R6Rand.test.утвержданий" />
+          <option value="R6Rand.screens.OperatorBannerPage.ui_element" />
+          <option value="R6Rand.ui_element.Operator.constants" />
+          <option value="R6Rand.ui_element.GraphicElementContainer.ui_element" />
+          <option value="R6Rand.screens.PageManager.screens" />
+          <option value="R6Rand.screens.OperatorBanPage.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
